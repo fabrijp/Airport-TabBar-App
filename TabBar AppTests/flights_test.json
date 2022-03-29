@@ -1,0 +1,3631 @@
+[{
+    "airlineId": "3O",
+    "flightNumber": 2128,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "TNG"
+  },
+  {
+    "airlineId": "AF",
+    "flightNumber": 1141,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CDG"
+  },
+  {
+    "airlineId": "AF",
+    "flightNumber": 1241,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CDG"
+  },
+  {
+    "airlineId": "AF",
+    "flightNumber": 1341,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CDG"
+  },
+  {
+    "airlineId": "AF",
+    "flightNumber": 1441,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CDG"
+  },
+  {
+    "airlineId": "AF",
+    "flightNumber": 1641,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CDG"
+  },
+  {
+    "airlineId": "AF",
+    "flightNumber": 1693,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "NTE"
+  },
+  {
+    "airlineId": "AF",
+    "flightNumber": 1741,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CDG"
+  },
+  {
+    "airlineId": "AF",
+    "flightNumber": 1793,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "NTE"
+  },
+  {
+    "airlineId": "AF",
+    "flightNumber": 1893,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "NTE"
+  },
+  {
+    "airlineId": "AF",
+    "flightNumber": 4305,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MRS"
+  },
+  {
+    "airlineId": "AF",
+    "flightNumber": 4313,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MRS"
+  },
+  {
+    "airlineId": "AF",
+    "flightNumber": 4365,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MRS"
+  },
+  {
+    "airlineId": "AT",
+    "flightNumber": 685,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "NDR"
+  },
+  {
+    "airlineId": "AT",
+    "flightNumber": 851,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CMN"
+  },
+  {
+    "airlineId": "AY",
+    "flightNumber": 842,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "HEL"
+  },
+  {
+    "airlineId": "AY",
+    "flightNumber": 846,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "HEL"
+  },
+  {
+    "airlineId": "AZ",
+    "flightNumber": 107,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "FCO"
+  },
+  {
+    "airlineId": "AZ",
+    "flightNumber": 109,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "FCO"
+  },
+  {
+    "airlineId": "AZ",
+    "flightNumber": 111,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "FCO"
+  },
+  {
+    "airlineId": "AZ",
+    "flightNumber": 113,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LIN"
+  },
+  {
+    "airlineId": "AZ",
+    "flightNumber": 115,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "FLR"
+  },
+  {
+    "airlineId": "AZ",
+    "flightNumber": 117,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "FLR"
+  },
+  {
+    "airlineId": "AZ",
+    "flightNumber": 121,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LIN"
+  },
+  {
+    "airlineId": "B2",
+    "flightNumber": 868,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MSQ"
+  },
+  {
+    "airlineId": "BA",
+    "flightNumber": 423,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LHR"
+  },
+  {
+    "airlineId": "BA",
+    "flightNumber": 429,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LHR"
+  },
+  {
+    "airlineId": "BA",
+    "flightNumber": 431,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LHR"
+  },
+  {
+    "airlineId": "BA",
+    "flightNumber": 433,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LHR"
+  },
+  {
+    "airlineId": "BA",
+    "flightNumber": 435,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LHR"
+  },
+  {
+    "airlineId": "BA",
+    "flightNumber": 439,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LHR"
+  },
+  {
+    "airlineId": "BA",
+    "flightNumber": 441,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LHR"
+  },
+  {
+    "airlineId": "BA",
+    "flightNumber": 443,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LHR"
+  },
+  {
+    "airlineId": "BA",
+    "flightNumber": 2759,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LGW"
+  },
+  {
+    "airlineId": "BA",
+    "flightNumber": 2761,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LGW"
+  },
+  {
+    "airlineId": "BA",
+    "flightNumber": 2763,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LGW"
+  },
+  {
+    "airlineId": "BA",
+    "flightNumber": 2765,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LGW"
+  },
+  {
+    "airlineId": "BE",
+    "flightNumber": 102,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BHX"
+  },
+  {
+    "airlineId": "BE",
+    "flightNumber": 104,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BHX"
+  },
+  {
+    "airlineId": "BE",
+    "flightNumber": 106,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BHX"
+  },
+  {
+    "airlineId": "BE",
+    "flightNumber": 1012,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SOU"
+  },
+  {
+    "airlineId": "BE",
+    "flightNumber": 1016,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SOU"
+  },
+  {
+    "airlineId": "BE",
+    "flightNumber": 1018,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SOU"
+  },
+  {
+    "airlineId": "BE",
+    "flightNumber": 1096,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "EMA"
+  },
+  {
+    "airlineId": "BE",
+    "flightNumber": 1286,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "INV"
+  },
+  {
+    "airlineId": "BE",
+    "flightNumber": 1534,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "EXT"
+  },
+  {
+    "airlineId": "BT",
+    "flightNumber": 618,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "RIX"
+  },
+  {
+    "airlineId": "BT",
+    "flightNumber": 620,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "RIX"
+  },
+  {
+    "airlineId": "CA",
+    "flightNumber": 1038,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "TSN"
+  },
+  {
+    "airlineId": "CI",
+    "flightNumber": 66,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BKK"
+  },
+  {
+    "airlineId": "CJ",
+    "flightNumber": 8452,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LCY"
+  },
+  {
+    "airlineId": "CJ",
+    "flightNumber": 8454,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LCY"
+  },
+  {
+    "airlineId": "CJ",
+    "flightNumber": 8456,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LCY"
+  },
+  {
+    "airlineId": "CJ",
+    "flightNumber": 8458,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LCY"
+  },
+  {
+    "airlineId": "CK",
+    "flightNumber": 210,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "PVG"
+  },
+  {
+    "airlineId": "CL",
+    "flightNumber": 2301,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MUC"
+  },
+  {
+    "airlineId": "CL",
+    "flightNumber": 2303,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MUC"
+  },
+  {
+    "airlineId": "CL",
+    "flightNumber": 2307,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MUC"
+  },
+  {
+    "airlineId": "CL",
+    "flightNumber": 2309,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MUC"
+  },
+  {
+    "airlineId": "CL",
+    "flightNumber": 2311,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MUC"
+  },
+  {
+    "airlineId": "CX",
+    "flightNumber": 68,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BOM"
+  },
+  {
+    "airlineId": "CX",
+    "flightNumber": 270,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "HKG"
+  },
+  {
+    "airlineId": "CY",
+    "flightNumber": 499,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LCA"
+  },
+  {
+    "airlineId": "CZ",
+    "flightNumber": 308,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CAN"
+  },
+  {
+    "airlineId": "CZ",
+    "flightNumber": 346,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "PEK"
+  },
+  {
+    "airlineId": "CZ",
+    "flightNumber": 452,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "VIE"
+  },
+  {
+    "airlineId": "DL",
+    "flightNumber": 33,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ATL"
+  },
+  {
+    "airlineId": "DL",
+    "flightNumber": 35,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "EWR"
+  },
+  {
+    "airlineId": "DL",
+    "flightNumber": 49,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MSP"
+  },
+  {
+    "airlineId": "DL",
+    "flightNumber": 50,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BOM"
+  },
+  {
+    "airlineId": "DL",
+    "flightNumber": 71,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "JFK"
+  },
+  {
+    "airlineId": "DL",
+    "flightNumber": 175,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ATL"
+  },
+  {
+    "airlineId": "DL",
+    "flightNumber": 179,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "PDX"
+  },
+  {
+    "airlineId": "DL",
+    "flightNumber": 231,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BOS"
+  },
+  {
+    "airlineId": "DL",
+    "flightNumber": 233,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SEA"
+  },
+  {
+    "airlineId": "DL",
+    "flightNumber": 235,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "DTW"
+  },
+  {
+    "airlineId": "DL",
+    "flightNumber": 239,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ATL"
+  },
+  {
+    "airlineId": "DL",
+    "flightNumber": 249,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "DTW"
+  },
+  {
+    "airlineId": "DL",
+    "flightNumber": 251,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "DTW"
+  },
+  {
+    "airlineId": "DL",
+    "flightNumber": 261,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MSP"
+  },
+  {
+    "airlineId": "DL",
+    "flightNumber": 265,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MSP"
+  },
+  {
+    "airlineId": "DL",
+    "flightNumber": 267,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BOS"
+  },
+  {
+    "airlineId": "DL",
+    "flightNumber": 620,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "DTW"
+  },
+  {
+    "airlineId": "DY",
+    "flightNumber": 1259,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "OSL"
+  },
+  {
+    "airlineId": "DY",
+    "flightNumber": 3541,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CPH"
+  },
+  {
+    "airlineId": "DY",
+    "flightNumber": 4532,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ARN"
+  },
+  {
+    "airlineId": "EI",
+    "flightNumber": 603,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "DUB"
+  },
+  {
+    "airlineId": "EI",
+    "flightNumber": 605,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "DUB"
+  },
+  {
+    "airlineId": "EI",
+    "flightNumber": 607,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "DUB"
+  },
+  {
+    "airlineId": "EI",
+    "flightNumber": 609,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "DUB"
+  },
+  {
+    "airlineId": "EI",
+    "flightNumber": 611,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "DUB"
+  },
+  {
+    "airlineId": "EI",
+    "flightNumber": 841,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ORK"
+  },
+  {
+    "airlineId": "EI",
+    "flightNumber": 845,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ORK"
+  },
+  {
+    "airlineId": "EK",
+    "flightNumber": 148,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "DXB"
+  },
+  {
+    "airlineId": "EK",
+    "flightNumber": 9990,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "DXB"
+  },
+  {
+    "airlineId": "EW",
+    "flightNumber": 3335,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "HAM"
+  },
+  {
+    "airlineId": "EW",
+    "flightNumber": 3339,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "HAM"
+  },
+  {
+    "airlineId": "EW",
+    "flightNumber": 3341,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "HAM"
+  },
+  {
+    "airlineId": "EY",
+    "flightNumber": 919,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "AUH"
+  },
+  {
+    "airlineId": "FB",
+    "flightNumber": 462,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SOF"
+  },
+  {
+    "airlineId": "FI",
+    "flightNumber": 503,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "KEF"
+  },
+  {
+    "airlineId": "HV",
+    "flightNumber": 201,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "TFS"
+  },
+  {
+    "airlineId": "HV",
+    "flightNumber": 287,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "FAO"
+  },
+  {
+    "airlineId": "HV",
+    "flightNumber": 415,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SSH"
+  },
+  {
+    "airlineId": "HV",
+    "flightNumber": 531,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CHQ"
+  },
+  {
+    "airlineId": "HV",
+    "flightNumber": 553,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "RTM"
+  },
+  {
+    "airlineId": "HV",
+    "flightNumber": 625,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SPC"
+  },
+  {
+    "airlineId": "HV",
+    "flightNumber": 661,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LPA"
+  },
+  {
+    "airlineId": "HV",
+    "flightNumber": 673,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "TFS"
+  },
+  {
+    "airlineId": "HV",
+    "flightNumber": 871,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "HER"
+  },
+  {
+    "airlineId": "HV",
+    "flightNumber": 939,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "FAO"
+  },
+  {
+    "airlineId": "HV",
+    "flightNumber": 2509,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "NDR"
+  },
+  {
+    "airlineId": "HV",
+    "flightNumber": 5131,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BCN"
+  },
+  {
+    "airlineId": "HV",
+    "flightNumber": 5133,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BCN"
+  },
+  {
+    "airlineId": "HV",
+    "flightNumber": 5135,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BCN"
+  },
+  {
+    "airlineId": "HV",
+    "flightNumber": 5355,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "FAO"
+  },
+  {
+    "airlineId": "HV",
+    "flightNumber": 5423,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "PSA"
+  },
+  {
+    "airlineId": "HV",
+    "flightNumber": 5497,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "TSF"
+  },
+  {
+    "airlineId": "HV",
+    "flightNumber": 5581,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "NCE"
+  },
+  {
+    "airlineId": "HV",
+    "flightNumber": 5753,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "RAK"
+  },
+  {
+    "airlineId": "HV",
+    "flightNumber": 5951,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LIS"
+  },
+  {
+    "airlineId": "HV",
+    "flightNumber": 6001,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "OPO"
+  },
+  {
+    "airlineId": "HV",
+    "flightNumber": 6115,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "AGP"
+  },
+  {
+    "airlineId": "HV",
+    "flightNumber": 6117,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "AGP"
+  },
+  {
+    "airlineId": "HV",
+    "flightNumber": 6143,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ALC"
+  },
+  {
+    "airlineId": "HV",
+    "flightNumber": 6145,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ALC"
+  },
+  {
+    "airlineId": "HV",
+    "flightNumber": 6331,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "VLC"
+  },
+  {
+    "airlineId": "HV",
+    "flightNumber": 6411,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "NAP"
+  },
+  {
+    "airlineId": "HV",
+    "flightNumber": 6583,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SAW"
+  },
+  {
+    "airlineId": "HV",
+    "flightNumber": 6727,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SVQ"
+  },
+  {
+    "airlineId": "HV",
+    "flightNumber": 6867,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ATH"
+  },
+  {
+    "airlineId": "IQ",
+    "flightNumber": 2305,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MUC"
+  },
+  {
+    "airlineId": "IQ",
+    "flightNumber": 2313,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MUC"
+  },
+  {
+    "airlineId": "JP",
+    "flightNumber": 435,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LJU"
+  },
+  {
+    "airlineId": "JU",
+    "flightNumber": 263,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BEG"
+  },
+  {
+    "airlineId": "K2",
+    "flightNumber": 312,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "GDN"
+  },
+  {
+    "airlineId": "K2",
+    "flightNumber": 418,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "KRK"
+  },
+  {
+    "airlineId": "K4",
+    "flightNumber": 344,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "EWR"
+  },
+  {
+    "airlineId": "K4",
+    "flightNumber": 626,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "EWR"
+  },
+  {
+    "airlineId": "KC",
+    "flightNumber": 904,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "GUW"
+  },
+  {
+    "airlineId": "KE",
+    "flightNumber": 509,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ARN"
+  },
+  {
+    "airlineId": "KF",
+    "flightNumber": 550,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CPH"
+  },
+  {
+    "airlineId": "KF",
+    "flightNumber": 1550,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CPH"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 255,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ATL"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 281,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SFO"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 409,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ALA"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 413,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "DMM"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 427,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "DXB"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 437,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "AUH"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 441,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "DOH"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 461,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "TLV"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 535,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "KGL"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 553,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CAI"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 565,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "NBO"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 567,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "JRO"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 581,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LAD"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 587,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LOS"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 589,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ACC"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 591,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "JNB"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 597,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CPT"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 601,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LAX"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 605,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SFO"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 611,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ORD"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 621,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ATL"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 641,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "JFK"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 643,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "JFK"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 651,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "IAD"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 661,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "IAH"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 671,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "YUL"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 677,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "YYC"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 681,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "YVR"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 685,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MEX"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 691,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "YYZ"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 695,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "YYZ"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 707,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "EZE"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 743,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LIM"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 755,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "UIO"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 757,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "PTY"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 767,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "AUA"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 785,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SXM"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 791,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "GRU"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 807,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "TPE"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 809,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "KUL"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 835,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SIN"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 861,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "NRT"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 863,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "NRT"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 865,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ICN"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 867,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "KIX"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 869,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "FUK"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 871,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "DEL"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 875,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BKK"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 889,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "HKG"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 891,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CTU"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 893,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "PVG"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 895,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "PVG"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 897,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "PEK"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 903,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SVO"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 907,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SVO"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 963,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "NCL"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1001,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LHR"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1007,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LHR"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1009,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LHR"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1017,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LHR"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1019,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LHR"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1021,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LHR"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1025,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LHR"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1031,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LHR"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1033,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LHR"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1073,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MAN"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1081,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MAN"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1083,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MAN"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1087,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MAN"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1093,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MAN"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1097,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MAN"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1107,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ARN"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1109,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ARN"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1115,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ARN"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1117,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ARN"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1121,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ARN"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1125,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CPH"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1127,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CPH"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1131,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CPH"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1133,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CPH"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1139,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CPH"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1141,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "OSL"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1143,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "OSL"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1145,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "OSL"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1147,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "OSL"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1151,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "OSL"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1153,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "GOT"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1167,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "HEL"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1169,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "HEL"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1171,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "HEL"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1185,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BGO"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1187,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BGO"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1189,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BGO"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1193,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BGO"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1199,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SVG"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1203,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SVG"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1205,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SVG"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1223,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CDG"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1227,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CDG"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1229,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CDG"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1233,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CDG"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1243,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CDG"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1245,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CDG"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1263,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "NCE"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1277,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "EDI"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1279,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "EDI"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1281,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "EDI"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1293,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "EDI"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1347,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BLL"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1349,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BLL"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1363,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "WAW"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1365,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "WAW"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1369,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "WAW"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1373,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "OTP"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1375,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "OTP"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1379,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "OTP"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1385,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "KBP"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1387,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "KBP"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1395,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LED"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1423,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BHX"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1431,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BHX"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1435,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BHX"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1443,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ABZ"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1451,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ABZ"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1477,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "GLA"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1481,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "GLA"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1575,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ATH"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1597,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "FCO"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1601,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "FCO"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1603,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "FCO"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1607,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "FCO"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1609,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "FCO"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1613,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "IST"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1617,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "IST"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1619,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LIN"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1621,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LIN"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1623,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LIN"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1635,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LIN"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1651,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "VCE"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1653,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "VCE"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1655,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "VCE"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1659,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "VCE"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1665,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BCN"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1671,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BCN"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1673,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BCN"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1675,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BCN"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1681,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BCN"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1693,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LIS"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1697,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LIS"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1699,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MAD"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1701,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MAD"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1703,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MAD"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1705,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MAD"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1707,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MAD"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1779,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "HAM"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1783,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "HAM"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1789,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "HAM"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1793,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MUC"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1797,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MUC"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1821,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "TXL"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1823,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "TXL"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1829,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "TXL"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1835,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "TXL"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1845,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "VIE"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1847,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "VIE"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1849,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "VIE"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1925,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "GVA"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1927,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "GVA"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1933,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "GVA"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1937,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "GVA"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1953,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ZRH"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1957,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ZRH"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1961,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ZRH"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1963,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ZRH"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1975,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BUD"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1977,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BUD"
+  },
+  {
+    "airlineId": "KL",
+    "flightNumber": 1979,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BUD"
+  },
+  {
+    "airlineId": "KM",
+    "flightNumber": 397,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MLA"
+  },
+  {
+    "airlineId": "KQ",
+    "flightNumber": 117,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "NBO"
+  },
+  {
+    "airlineId": "KZ",
+    "flightNumber": 47,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MXP"
+  },
+  {
+    "airlineId": "LH",
+    "flightNumber": 987,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "FRA"
+  },
+  {
+    "airlineId": "LH",
+    "flightNumber": 989,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "FRA"
+  },
+  {
+    "airlineId": "LH",
+    "flightNumber": 991,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "FRA"
+  },
+  {
+    "airlineId": "LH",
+    "flightNumber": 993,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "FRA"
+  },
+  {
+    "airlineId": "LH",
+    "flightNumber": 997,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "FRA"
+  },
+  {
+    "airlineId": "LH",
+    "flightNumber": 999,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "FRA"
+  },
+  {
+    "airlineId": "LH",
+    "flightNumber": 1003,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "FRA"
+  },
+  {
+    "airlineId": "LO",
+    "flightNumber": 266,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "WAW"
+  },
+  {
+    "airlineId": "LO",
+    "flightNumber": 268,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "WAW"
+  },
+  {
+    "airlineId": "LO",
+    "flightNumber": 270,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "WAW"
+  },
+  {
+    "airlineId": "LS",
+    "flightNumber": 202,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LBA"
+  },
+  {
+    "airlineId": "LS",
+    "flightNumber": 206,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LBA"
+  },
+  {
+    "airlineId": "LX",
+    "flightNumber": 725,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ZRH"
+  },
+  {
+    "airlineId": "LX",
+    "flightNumber": 729,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ZRH"
+  },
+  {
+    "airlineId": "LX",
+    "flightNumber": 735,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ZRH"
+  },
+  {
+    "airlineId": "LX",
+    "flightNumber": 737,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ZRH"
+  },
+  {
+    "airlineId": "LY",
+    "flightNumber": 338,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "TLV"
+  },
+  {
+    "airlineId": "MH",
+    "flightNumber": 17,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "KUL"
+  },
+  {
+    "airlineId": "MP",
+    "flightNumber": 67,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BQN"
+  },
+  {
+    "airlineId": "MP",
+    "flightNumber": 81,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "NBO"
+  },
+  {
+    "airlineId": "MP",
+    "flightNumber": 87,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "KGL"
+  },
+  {
+    "airlineId": "MP",
+    "flightNumber": 97,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "KWI"
+  },
+  {
+    "airlineId": "MP",
+    "flightNumber": 931,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BAH"
+  },
+  {
+    "airlineId": "MP",
+    "flightNumber": 1157,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MIA"
+  },
+  {
+    "airlineId": "MP",
+    "flightNumber": 5715,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MIA"
+  },
+  {
+    "airlineId": "MS",
+    "flightNumber": 758,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CAI"
+  },
+  {
+    "airlineId": "NI",
+    "flightNumber": 651,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "OPO"
+  },
+  {
+    "airlineId": "OK",
+    "flightNumber": 617,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "PRG"
+  },
+  {
+    "airlineId": "OK",
+    "flightNumber": 619,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "PRG"
+  },
+  {
+    "airlineId": "OR",
+    "flightNumber": 317,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SFB"
+  },
+  {
+    "airlineId": "OR",
+    "flightNumber": 335,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "HOG"
+  },
+  {
+    "airlineId": "OR",
+    "flightNumber": 363,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CUR"
+  },
+  {
+    "airlineId": "OU",
+    "flightNumber": 451,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ZAG"
+  },
+  {
+    "airlineId": "OV",
+    "flightNumber": 174,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "TLL"
+  },
+  {
+    "airlineId": "OV",
+    "flightNumber": 474,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "TLL"
+  },
+  {
+    "airlineId": "PC",
+    "flightNumber": 284,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "AYT"
+  },
+  {
+    "airlineId": "PC",
+    "flightNumber": 672,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SAW"
+  },
+  {
+    "airlineId": "PK",
+    "flightNumber": 763,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "FRA"
+  },
+  {
+    "airlineId": "PS",
+    "flightNumber": 102,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "KBP"
+  },
+  {
+    "airlineId": "PY",
+    "flightNumber": 993,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "PBM"
+  },
+  {
+    "airlineId": "RJ",
+    "flightNumber": 152,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "AMM"
+  },
+  {
+    "airlineId": "RO",
+    "flightNumber": 362,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "OTP"
+  },
+  {
+    "airlineId": "RU",
+    "flightNumber": 524,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SVO"
+  },
+  {
+    "airlineId": "RU",
+    "flightNumber": 526,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SVO"
+  },
+  {
+    "airlineId": "RU",
+    "flightNumber": 528,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SVO"
+  },
+  {
+    "airlineId": "SK",
+    "flightNumber": 548,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CPH"
+  },
+  {
+    "airlineId": "SK",
+    "flightNumber": 552,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CPH"
+  },
+  {
+    "airlineId": "SK",
+    "flightNumber": 554,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CPH"
+  },
+  {
+    "airlineId": "SK",
+    "flightNumber": 556,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ARN"
+  },
+  {
+    "airlineId": "SK",
+    "flightNumber": 822,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "OSL"
+  },
+  {
+    "airlineId": "SK",
+    "flightNumber": 828,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "OSL"
+  },
+  {
+    "airlineId": "SK",
+    "flightNumber": 1556,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ARN"
+  },
+  {
+    "airlineId": "SQ",
+    "flightNumber": 323,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SIN"
+  },
+  {
+    "airlineId": "SQ",
+    "flightNumber": 7395,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SHJ"
+  },
+  {
+    "airlineId": "SU",
+    "flightNumber": 2193,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SVO"
+  },
+  {
+    "airlineId": "SU",
+    "flightNumber": 2551,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SVO"
+  },
+  {
+    "airlineId": "SX",
+    "flightNumber": 301,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BRN"
+  },
+  {
+    "airlineId": "TK",
+    "flightNumber": 1952,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "IST"
+  },
+  {
+    "airlineId": "TK",
+    "flightNumber": 1954,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "IST"
+  },
+  {
+    "airlineId": "TK",
+    "flightNumber": 1956,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "IST"
+  },
+  {
+    "airlineId": "TK",
+    "flightNumber": 1958,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "IST"
+  },
+  {
+    "airlineId": "TP",
+    "flightNumber": 661,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LIS"
+  },
+  {
+    "airlineId": "TP",
+    "flightNumber": 663,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LIS"
+  },
+  {
+    "airlineId": "TP",
+    "flightNumber": 669,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LIS"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 1042,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BSL"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 1046,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BSL"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 1354,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "GVA"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 1356,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "GVA"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 1358,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "GVA"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 1832,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MAN"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 1836,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MAN"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 2156,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LTN"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 2158,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LTN"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 2162,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LTN"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 2164,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LTN"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 2724,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MXP"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 2726,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MXP"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 2728,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MXP"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 2730,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MXP"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 3002,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "STN"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 3006,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "STN"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 3010,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "STN"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 3809,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "PRG"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 4564,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SXF"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 4566,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SXF"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 4568,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SXF"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 4994,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "FCO"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 4996,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "FCO"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 6162,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BRS"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 6168,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BRS"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 6454,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "NCL"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 6772,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BFS"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 6854,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "GLA"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 6922,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "EDI"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 6924,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "EDI"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 7002,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LPL"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 7008,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LPL"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 7012,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LPL"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 7402,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SEN"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 7406,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SEN"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 7664,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LIS"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 8870,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LGW"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 8872,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LGW"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 8874,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LGW"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 8876,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LGW"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 8878,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LGW"
+  },
+  {
+    "airlineId": "U2",
+    "flightNumber": 8882,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LGW"
+  },
+  {
+    "airlineId": "UA",
+    "flightNumber": 59,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "IAH"
+  },
+  {
+    "airlineId": "UA",
+    "flightNumber": 71,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "EWR"
+  },
+  {
+    "airlineId": "UA",
+    "flightNumber": 909,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ORD"
+  },
+  {
+    "airlineId": "UA",
+    "flightNumber": 947,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "IAD"
+  },
+  {
+    "airlineId": "US",
+    "flightNumber": 799,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "PHL"
+  },
+  {
+    "airlineId": "UX",
+    "flightNumber": 1094,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MAD"
+  },
+  {
+    "airlineId": "UX",
+    "flightNumber": 1098,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MAD"
+  },
+  {
+    "airlineId": "VO",
+    "flightNumber": 372,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "VIE"
+  },
+  {
+    "airlineId": "VO",
+    "flightNumber": 374,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "VIE"
+  },
+  {
+    "airlineId": "VO",
+    "flightNumber": 376,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "VIE"
+  },
+  {
+    "airlineId": "VO",
+    "flightNumber": 378,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "VIE"
+  },
+  {
+    "airlineId": "VY",
+    "flightNumber": 1375,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ALC"
+  },
+  {
+    "airlineId": "VY",
+    "flightNumber": 2902,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "PMI"
+  },
+  {
+    "airlineId": "VY",
+    "flightNumber": 3323,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "IBZ"
+  },
+  {
+    "airlineId": "VY",
+    "flightNumber": 8301,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BCN"
+  },
+  {
+    "airlineId": "VY",
+    "flightNumber": 8305,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BCN"
+  },
+  {
+    "airlineId": "VY",
+    "flightNumber": 8318,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BCN"
+  },
+  {
+    "airlineId": "VY",
+    "flightNumber": 8323,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BCN"
+  },
+  {
+    "airlineId": "VY",
+    "flightNumber": 8357,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "VLC"
+  },
+  {
+    "airlineId": "VY",
+    "flightNumber": 8367,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "AGP"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 953,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "NCL"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 957,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "NCL"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 959,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "NCL"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 971,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "NCL"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1023,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LHR"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1027,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LHR"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1029,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LHR"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1049,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BRS"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1051,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BRS"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1053,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BRS"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1057,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BRS"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1059,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CWL"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1063,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CWL"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1069,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CWL"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1129,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CPH"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1149,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "OSL"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1155,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "GOT"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1157,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "GOT"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1159,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "GOT"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1163,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "GOT"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1173,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "TRD"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1175,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "TRD"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1177,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "TRD"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1179,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LPI"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1181,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LPI"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1183,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LPI"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1197,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SVG"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1201,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SVG"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1207,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "KRS"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1209,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "KRS"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1211,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "KRS"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1217,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "TRF"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1219,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "TRF"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1221,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "TRF"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1267,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "NCE"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1271,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "NCE"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1273,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "NCE"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1285,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "EDI"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1289,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "EDI"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1301,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "TLS"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1303,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "TLS"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1311,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "TLS"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1313,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "TLS"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1315,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BOD"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1317,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BOD"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1319,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BOD"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1325,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "AES"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1327,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "AES"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1333,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "AAL"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1335,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "AAL"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1337,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "AAL"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1341,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BLL"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1343,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BLL"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1345,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BLL"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1351,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "PRG"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1355,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "PRG"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1357,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "PRG"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1359,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "PRG"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1413,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LYS"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1415,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LYS"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1417,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LYS"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1419,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LYS"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1421,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BHX"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1425,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BHX"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1441,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ABZ"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1445,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ABZ"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1449,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ABZ"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1471,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "GLA"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1473,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "GLA"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1475,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "GLA"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1489,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "HUY"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1497,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "HUY"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1499,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "HUY"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1505,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "NWI"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1507,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "NWI"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1511,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "NWI"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1515,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "NWI"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1519,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MSE"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1523,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MSE"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1533,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MME"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1535,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MME"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1539,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MME"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1545,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LBA"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1547,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LBA"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1549,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LBA"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1551,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LBA"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1583,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BLQ"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1591,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BLQ"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1595,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BLQ"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1721,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BRU"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1723,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BRU"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1725,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BRU"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1731,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BRU"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1733,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BRU"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1739,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LUX"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1741,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LUX"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1745,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LUX"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1749,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LUX"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1753,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BRE"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1755,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BRE"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1757,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BRE"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1761,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BRE"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1763,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "FRA"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1765,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "FRA"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1767,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "FRA"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1771,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "FRA"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1773,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "FRA"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1775,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "FRA"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1777,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "HAM"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1781,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "HAM"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1791,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MUC"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1795,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MUC"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1799,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MUC"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1801,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "MUC"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1807,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CGN"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1811,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CGN"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1813,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "CGN"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1825,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "TXL"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1833,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "TXL"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1839,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "VIE"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1853,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "DUS"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1855,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "DUS"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1857,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "DUS"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1861,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "DUS"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1863,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "DUS"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1867,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "STR"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1869,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "STR"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1873,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "STR"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1875,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "STR"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1879,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "STR"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1883,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "NUE"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1885,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "NUE"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1887,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "NUE"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1891,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "NUE"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1903,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "HAJ"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1909,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "HAJ"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1911,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "HAJ"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1915,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "HAJ"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1929,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "GVA"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1931,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "GVA"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1959,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ZRH"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1969,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "ZRH"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1985,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BSL"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1987,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BSL"
+  },
+  {
+    "airlineId": "WA",
+    "flightNumber": 1991,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "BSL"
+  },
+  {
+    "airlineId": "WX",
+    "flightNumber": 5180,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LCY"
+  },
+  {
+    "airlineId": "WX",
+    "flightNumber": 5182,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LCY"
+  },
+  {
+    "airlineId": "WX",
+    "flightNumber": 5184,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LCY"
+  },
+  {
+    "airlineId": "WX",
+    "flightNumber": 5186,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LCY"
+  },
+  {
+    "airlineId": "WX",
+    "flightNumber": 5194,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LCY"
+  },
+  {
+    "airlineId": "WX",
+    "flightNumber": 5196,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LCY"
+  },
+  {
+    "airlineId": "WX",
+    "flightNumber": 5198,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "LCY"
+  },
+  {
+    "airlineId": "YS",
+    "flightNumber": 5483,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SXB"
+  },
+  {
+    "airlineId": "YS",
+    "flightNumber": 5485,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SXB"
+  },
+  {
+    "airlineId": "YS",
+    "flightNumber": 5487,
+    "departureAirportId": "AMS",
+    "arrivalAirportId": "SXB"
+  }
+]
